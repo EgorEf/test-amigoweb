@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/EgorEf/test-amigoweb/static/css/main.19daae1d.chunk.css",
+    "main.js": "/EgorEf/test-amigoweb/static/js/main.5ddd56d5.chunk.js",
+    "main.js.map": "/EgorEf/test-amigoweb/static/js/main.5ddd56d5.chunk.js.map",
+    "runtime-main.js": "/EgorEf/test-amigoweb/static/js/runtime-main.ff218094.js",
+    "runtime-main.js.map": "/EgorEf/test-amigoweb/static/js/runtime-main.ff218094.js.map",
+    "static/js/2.33b58895.chunk.js": "/EgorEf/test-amigoweb/static/js/2.33b58895.chunk.js",
+    "static/js/2.33b58895.chunk.js.map": "/EgorEf/test-amigoweb/static/js/2.33b58895.chunk.js.map",
+    "index.html": "/EgorEf/test-amigoweb/index.html",
+    "static/css/main.19daae1d.chunk.css.map": "/EgorEf/test-amigoweb/static/css/main.19daae1d.chunk.css.map",
+    "static/js/2.33b58895.chunk.js.LICENSE.txt": "/EgorEf/test-amigoweb/static/js/2.33b58895.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ff218094.js",
+    "static/js/2.33b58895.chunk.js",
+    "static/css/main.19daae1d.chunk.css",
+    "static/js/main.5ddd56d5.chunk.js"
+  ]
+}
